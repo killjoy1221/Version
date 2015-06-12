@@ -1,0 +1,17 @@
+{
+  "1.8": {
+    "revision": 5,
+    "version": "0.5",
+    "changes": "Update to 1.8, fix ssl certificate rejecions, support for more websites."
+  },
+  "1.7.10": {
+    "revision": 4,
+    "version": "0.4",
+    "changes": "Fix Youtube support. Many others."
+  },
+  "1.7.2": {
+    "revision": 2,
+    "version": "0.2",
+    "changes": "Bug Fixes"
+  }
+}
