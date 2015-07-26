@@ -1,7 +1,7 @@
 {
   "1.8": {
-    "revision": 0.21,
-    "version": "beta 2a",
-    "changes": "Fixed links and chat thread locking. Added update checker."
+    "revision": 0.3,
+    "version": "beta 3",
+    "changes": "Add sound notifications, chatbox resizing, more filter features, bug fixes"
   }
 }
