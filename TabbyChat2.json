@@ -1,7 +1,7 @@
 {
   "1.8": {
-    "revision": 0.31,
-    "version": "beta 3.1",
-    "changes": "Bug fixes, removed default self name notification"
+    "revision": 15,
+    "version": "2.0",
+    "changes": "Spell Checking, gui changes, and bug fixes. Now requires LiteLoader"
   }
 }
