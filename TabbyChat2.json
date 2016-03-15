@@ -1,7 +1,7 @@
 {
   "1.8": {
-    "revision": 15,
-    "version": "2.0",
-    "changes": "Spell Checking, gui changes, and bug fixes. Now requires LiteLoader"
+    "revision": 16,
+    "version": "2.0.1",
+    "changes": "Fix a bug that caused MapWriter's large map to not render."
   }
 }
