@@ -1,4 +1,9 @@
 {
+  "1.8.9": {
+    "revision": 242,
+    "version": "2.0.4-mc1.8.9",
+    "changes": "Update to 1.8.9 and Java 8. Bug fixes.\n 2.0.3: Fix issues with invtweaks.\n 2.0.4: Fix minor channel detection bug."
+  },
   "1.8": {
     "revision": 16,
     "version": "2.0.1",
