@@ -8,5 +8,10 @@
     "revision": 16,
     "version": "2.0.1",
     "changes": "Fix a bug that caused MapWriter's large map to not render."
+  },
+  "@MCVERSION@": {
+    "revision": 7,
+    "version": "null",
+    "changes": "This is for testing. Nothing is here but development. (disable update check in development pl0x)"
   }
 }
