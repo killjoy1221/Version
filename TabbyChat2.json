@@ -1,8 +1,8 @@
 {
   "1.11": {
-    "revision": 265,
-    "version": "2.1.4",
-    "changes": "Max chat length is now 256. Changes have been made acoordingly."
+    "revision": 266,
+    "version": "2.1.5",
+    "changes": "Max chat length is now 256. Changes have been made acoordingly. Localization fixes"
   },
   "1.10.2": {
     "revision": 259,
