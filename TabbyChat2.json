@@ -1,4 +1,9 @@
 {
+  "1.11.2": {
+    "revision": 267,
+    "version": "2.1.6",
+    "changes": "Update to 1.11.2."
+  },
   "1.11": {
     "revision": 266,
     "version": "2.1.5",
