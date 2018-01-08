@@ -1,4 +1,9 @@
 {
+  "1.12.2": {
+    "revision": 320,
+    "version": "2.3.4",
+    "changes": "Fix for when mods use packets to send chat."
+  },
   "1.12.1": {
     "revision": 302,
     "version": "2.3.1",
